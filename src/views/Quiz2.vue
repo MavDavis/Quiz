@@ -44,7 +44,7 @@ export default {
       visibleCards: [],
       showToast: false,
       toastMessage: '',
-      toastType: 'success', // success or error
+      toastType: 'success',
       toastTimeout: null
     };
   },
